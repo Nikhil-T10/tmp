@@ -1,2 +1,3 @@
 stage file
-Error added
+Error added to the file
+Check
