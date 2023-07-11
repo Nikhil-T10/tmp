@@ -1,7 +1,0 @@
-Hello this is line one
-<<<<<<< Updated upstream
-This is third line
-This is fourth line
-=======
-This is second line
->>>>>>> Stashed changes
