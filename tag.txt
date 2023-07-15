@@ -1,8 +1,0 @@
-tag tes
-<<<<<<< Updated upstream
-testing stash
-=======
-line 3 for test
->>>>>>> Stashed changes
-
-i am using git 
