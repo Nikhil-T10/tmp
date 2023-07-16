@@ -4,14 +4,14 @@ echo "Prepairing to Remove installed Git if Installed"
 echo ""
 sleep 2
 
-yum remove git* -y
+yum remove git -y
 sleep 5
 
 echo "Installing Git"
 
 sleep 5
 
-yum install git* -y
+yum install git -y
 
 echo ""
 echo ""
